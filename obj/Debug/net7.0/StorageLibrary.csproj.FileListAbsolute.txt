@@ -1,0 +1,14 @@
+C:\Users\wonga\OneDrive\Documents\C# Projects\StorageLibrary\bin\Debug\net7.0\StorageLibrary.deps.json
+C:\Users\wonga\OneDrive\Documents\C# Projects\StorageLibrary\bin\Debug\net7.0\StorageLibrary.runtimeconfig.json
+C:\Users\wonga\OneDrive\Documents\C# Projects\StorageLibrary\bin\Debug\net7.0\StorageLibrary.dll
+C:\Users\wonga\OneDrive\Documents\C# Projects\StorageLibrary\bin\Debug\net7.0\StorageLibrary.pdb
+C:\Users\wonga\OneDrive\Documents\C# Projects\StorageLibrary\obj\Debug\net7.0\StorageLibrary.csproj.AssemblyReference.cache
+C:\Users\wonga\OneDrive\Documents\C# Projects\StorageLibrary\obj\Debug\net7.0\StorageLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wonga\OneDrive\Documents\C# Projects\StorageLibrary\obj\Debug\net7.0\StorageLibrary.AssemblyInfoInputs.cache
+C:\Users\wonga\OneDrive\Documents\C# Projects\StorageLibrary\obj\Debug\net7.0\StorageLibrary.AssemblyInfo.cs
+C:\Users\wonga\OneDrive\Documents\C# Projects\StorageLibrary\obj\Debug\net7.0\StorageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\wonga\OneDrive\Documents\C# Projects\StorageLibrary\obj\Debug\net7.0\StorageLibrary.dll
+C:\Users\wonga\OneDrive\Documents\C# Projects\StorageLibrary\obj\Debug\net7.0\refint\StorageLibrary.dll
+C:\Users\wonga\OneDrive\Documents\C# Projects\StorageLibrary\obj\Debug\net7.0\StorageLibrary.pdb
+C:\Users\wonga\OneDrive\Documents\C# Projects\StorageLibrary\obj\Debug\net7.0\StorageLibrary.genruntimeconfig.cache
+C:\Users\wonga\OneDrive\Documents\C# Projects\StorageLibrary\obj\Debug\net7.0\ref\StorageLibrary.dll
